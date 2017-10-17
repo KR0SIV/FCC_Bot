@@ -1,5 +1,5 @@
 [FCC]
-key = MzY0MzEzNzcyMzY3Njc1Mzky.DLN9Jg.O4O4O1em1MR47XjlpzrWiWqj1j4
+key = MzY0MzEzNzcyMzY3Njc1Mzky.DMcWfA.r73DLclaNQcyeVC6sxmsSZPbmaM
 
 [Authorized_Roles]
 role1 = Overseers

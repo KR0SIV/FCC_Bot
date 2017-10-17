@@ -118,7 +118,5 @@ async def on_message(message):
 
 
 
-try:
-    client.run(botConf.grabKey())
-except:
-    print('settings not found in Plugins folder, does it exist?')
+
+client.run(botConf.grabKey())
