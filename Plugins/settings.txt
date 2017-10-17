@@ -1,0 +1,12 @@
+[FCC]
+key = MzY0MzEzNzcyMzY3Njc1Mzky.DLN9Jg.O4O4O1em1MR47XjlpzrWiWqj1j4
+
+[Authorized_Roles]
+role1 = Overseers
+role2 = Henchmen
+role3 = Droogs
+role4 = None
+
+[Admin_Role]
+adminrole = Admins
+
