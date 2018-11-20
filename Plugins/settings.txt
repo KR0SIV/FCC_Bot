@@ -1,0 +1,9 @@
+[FCC]	
+key = Your Bot Key Goes here	
+ [Authorized_Roles]	
+role1 = Overseers	
+role2 = Henchmen	
+role3 = Droogs	
+role4 = None	
+ [Admin_Role]	
+adminrole = Admins
